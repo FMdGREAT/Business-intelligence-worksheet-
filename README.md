@@ -12,16 +12,16 @@ IFEXA keeps its sales, customer, product, expense, inventory and target data in 
 ## Dashboard Preview
 
 ### 1. Sales Analysis (Executive View)
-![Sales Analysis](Screenshot_2026-11-19_085655.png)
+![Sales Analysis](Screenshot%202026-11-19%20085655.png)
 
 ### 2. Sales Dashboard
-![Sales Dashboard](Screenshot_2026-11-19_085716.png)
+![Sales Dashboard](Screenshot%202026-11-19%20085716.png)
 
 ### 3. Customer Dashboard
-![Customer Dashboard](Screenshot_2026-11-19_085726.png)
+![Customer Dashboard](Screenshot%202026-11-19%20085726.png)
 
 ### 4. Profitability Dashboard
-![Profitability Dashboard](Screenshot_2026-11-19_085740.png)
+![Profitability Dashboard](Screenshot%202026-11-19%20085740.png)
 
 ## Key numbers
 - Total Sales: 191.64bn across 30K orders and 224K units
